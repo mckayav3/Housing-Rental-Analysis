@@ -19,10 +19,39 @@ This project leverages python 3.8.8 with the following packages:
 
 * [Jupyter Lab](https://jupyterlab.readthedocs.io.en/stable) - For code and visualizations.
 
+* [hvplot](https://hvplot.holoviz.org/user_guide/Introduction.html) - For creating the visualization of our data from the DataFrame.
 
+* [ploty express](https://plotly.com/python/plotly-express/) - For creating the scatter mapbox taking. 
 
+* [matplotlib](https://matplotlib.org/) - Used to create static, animate, and interactive visualizations in Python.
 
 * [pathlib](https://docs.python.org/3/library/pathlib.html) - For location through the directory and file path.
+
+
+* [numpy](https://numpy.org/install/) - For scientific computing with python.
+
+---
+
+## Installation Guide
+
+In gitbash after you have activated your dev environment, install the following:
+
+```python
+  pip install jupyter lab
+```
+
+*Dotenv
+
+    `pip install python-dotenv`
+    
+    
+![install dotenv](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/install_dotenv.JPG)
+   
+*Plotly
+
+    `conda install -c plotly plotly=4.13`
+    
+![install plotyly](FinTech-Workspace/Module6_Challenge/Images/install_plotly.JPG)
 
 
 ---
