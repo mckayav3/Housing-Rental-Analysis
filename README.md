@@ -54,4 +54,10 @@ In gitbash after you have activated your dev environment, install the following:
 ![install plotyly](https://github.com/mckayav3/Module6_Challenge/blob/main/Images/install_plotly.JPG)
 
 
+*Pyviz Hvplot
+
+    `conda install -c pyviz hvplot`
+    
+![install pyviz hvplot](https://github.com/mckayav3/Module6_Challenge/blob/main/Images/install_pyviz_hvplot.JPG)
+
 ---
