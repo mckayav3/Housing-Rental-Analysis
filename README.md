@@ -51,7 +51,7 @@ In gitbash after you have activated your dev environment, install the following:
 
     `conda install -c plotly plotly=4.13`
     
-![install plotyly](FinTech-Workspace/Module6_Challenge/Images/install_plotly.JPG)
+![install plotyly](https://github.com/mckayav3/Module6_Challenge/blob/main/Images/install_plotly.JPG)
 
 
 ---
