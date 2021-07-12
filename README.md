@@ -61,3 +61,13 @@ In gitbash after you have activated your dev environment, install the following:
 ![install pyviz hvplot](https://github.com/mckayav3/Module6_Challenge/blob/main/Images/install_pyviz_hvplot.JPG)
 
 ---
+
+## Examples
+The images below show the different types of charts and graphs that should result from running the code in the Housing Rental Analysis with APIs. By reviewing the charts and graphs we can conclude the best outcome for the one-click, buy-and-rent strategy.
+
+![housing bar plot](https://github.com/mckayav3/Module6_Challenge/blob/main/Images/Housing_units_barplot.JPG)
+
+![all neighborhoods dataframe](https://github.com/mckayav3/Module6_Challenge/blob/main/Images/all_neighborhoods_df.JPG)
+
+![map box](https://github.com/mckayav3/Module6_Challenge/blob/main/Images/mapbox_plot.JPG)
+
